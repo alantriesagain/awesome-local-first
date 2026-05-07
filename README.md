@@ -67,6 +67,10 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Secure Scuttlebutt**](https://github.com/ssbc/ssb-server) - P2P communication protocol and social network
 - [**Berty**](https://github.com/berty/berty) - Privacy-first messaging app with offline-first capabilities
 
+### Health & Fitness
+
+- [**nobro.app**](https://nobro.app/) - Minimalist offline-first workout program tracker. State and editable program live in localStorage, no backend. PWA, 11 locales
+
 ## Frameworks & Platforms
 
 ### Full-Stack Frameworks

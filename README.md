@@ -52,6 +52,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki
 - [**Volon**](https://github.com/danielgolden/volon) - Plain text, markdown-focused notes app
+- [**Screenpipe**](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for building context-aware AI apps. 100% local, privacy-first alternative to Rewind.ai
 
 ### Design & Creative
 

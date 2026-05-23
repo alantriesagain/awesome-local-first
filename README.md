@@ -63,6 +63,7 @@ Local-first software prioritizes local data storage and processing while enablin
 ### Development Tools
 
 - [**Linear**](https://linear.app/) - Issue tracking with exceptional offline support (proprietary)
+- [**Claw Task Hub**](https://github.com/Catfish-75/claw-task-hub) - Local-first, SQLite-backed task hub for AI agents and agentic harness workflows
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 
 ### Communication

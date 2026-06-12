@@ -49,6 +49,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
+- [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Privacy-focused, end-to-end encrypted note-taking app
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki

@@ -54,6 +54,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki
 - [**Volon**](https://github.com/danielgolden/volon) - Plain text, markdown-focused notes app
 - [**Screenpipe**](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for building context-aware AI apps. 100% local, privacy-first alternative to Rewind.ai
+- [**OATS**](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app with live transcription, speaker labels, AI summaries, and optional fully offline on-device mode
 
 ### Design & Creative
 

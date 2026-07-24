@@ -59,6 +59,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 - [**Penpot**](https://github.com/penpot/penpot) - Open-source design and prototyping platform (local-first capable)
 - [**tldraw**](https://github.com/tldraw/tldraw) - Infinite canvas SDK with local-first multiplayer
+- [**Vincent**](https://github.com/iisacc-Justmoong/Vincent) - Private, local-first raster drawing and handwriting app for Windows; working files remain on the user's computer
 
 ### Development Tools
 

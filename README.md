@@ -45,6 +45,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**AFFiNE**](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base combining planning, sorting, and creating. Open-source Notion alternative
 - [**Anytype**](https://github.com/anyproto/anytype-ts) - Local-first, P2P knowledge management and collaboration tool
 - [**Bangle.io**](https://github.com/bangle-io/bangle-io) - Web-native markdown note-taking app with local storage
+- [**Clippy Vision**](https://github.com/protocorn/clippy-vision) - Local screen-memory assistant that watches your windows, clipboard, and screenshots to answer questions about your own activity history. 100% local, no cloud.
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. All recordings stored locally, AI pronunciation feedback.
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking

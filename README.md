@@ -73,6 +73,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ### Health & Fitness
 
+- [**CuidaLocal**](https://github.com/marcosmmjr2023/kit-organizacao-cuidados) - Offline PWA for family care coordination. Appointments, medications, contacts, and notes stay in browser local storage, with no account or backend
 - [**nobro.app**](https://nobro.app/) - Minimalist offline-first workout program tracker. State and editable program live in localStorage, no backend. PWA, 11 locales
 
 ## Frameworks & Platforms

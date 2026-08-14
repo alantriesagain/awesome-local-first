@@ -67,6 +67,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 - [**Linear**](https://linear.app/) - Issue tracking with exceptional offline support (proprietary)
 - [**Claw Task Hub**](https://github.com/Catfish-75/claw-task-hub) - Local-first, SQLite-backed task hub for AI agents and agentic harness workflows
+- [**Tree Ring Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first, SQLite/FTS-backed memory lifecycle CLI/TUI for AI agents with explicit recall, redaction, deletion, audit, consolidation, and JSON export.
 - [**CompozyOS**](https://github.com/compozy/compozy) - Local-first agent operating system with loops, schedules, shared memory and approvals (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 

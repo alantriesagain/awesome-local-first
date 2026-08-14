@@ -142,6 +142,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Partykit**](https://github.com/partykit/partykit) - Multiplayer infrastructure with local-first patterns
 - [**Liveblocks**](https://github.com/liveblocks/liveblocks) - Real-time collaboration infrastructure
 - [**Evolu**](https://github.com/evoluhq/evolu) - Local-first platform with E2E encryption
+- [**ZamSync**](https://github.com/Etoile-Bleu/ZamSync) - Offline-first WAL sync engine in Rust for unreliable networks. HLC ordering, Version Vector deduplication, mTLS, ChaCha20-Poly1305 encryption at rest, static binary for ARM/IoT.
 
 ### P2P Protocols
 

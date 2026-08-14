@@ -45,15 +45,18 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**AFFiNE**](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base combining planning, sorting, and creating. Open-source Notion alternative
 - [**Anytype**](https://github.com/anyproto/anytype-ts) - Local-first, P2P knowledge management and collaboration tool
 - [**Bangle.io**](https://github.com/bangle-io/bangle-io) - Web-native markdown note-taking app with local storage
+- [**Clippy Vision**](https://github.com/protocorn/clippy-vision) - Local screen-memory assistant that watches your windows, clipboard, and screenshots to answer questions about your own activity history. 100% local, no cloud.
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. All recordings stored locally, AI pronunciation feedback.
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
+- [**Orkas**](https://github.com/Orkas-AI/Orkas) - Open-source desktop AI workforce where a Commander coordinates specialist agents through one chat while conversations, files, agent configuration, and model keys stay on-device
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Privacy-focused, end-to-end encrypted note-taking app
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki
 - [**Volon**](https://github.com/danielgolden/volon) - Plain text, markdown-focused notes app
 - [**Screenpipe**](https://github.com/mediar-ai/screenpipe) - 24/7 local AI screen & mic recording for building context-aware AI apps. 100% local, privacy-first alternative to Rewind.ai
+- [**OATS**](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app with live transcription, speaker labels, AI summaries, and optional fully offline on-device mode
 
 ### Design & Creative
 
@@ -65,6 +68,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Linear**](https://linear.app/) - Issue tracking with exceptional offline support (proprietary)
 - [**Claw Task Hub**](https://github.com/Catfish-75/claw-task-hub) - Local-first, SQLite-backed task hub for AI agents and agentic harness workflows
 - [**Tree Ring Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first, SQLite/FTS-backed memory lifecycle CLI/TUI for AI agents with explicit recall, redaction, deletion, audit, consolidation, and JSON export.
+- [**CompozyOS**](https://github.com/compozy/compozy) - Local-first agent operating system with loops, schedules, shared memory and approvals (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 
 ### Communication
@@ -74,6 +78,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ### Health & Fitness
 
+- [**CuidaLocal**](https://github.com/marcosmmjr2023/kit-organizacao-cuidados) - Offline PWA for family care coordination. Appointments, medications, contacts, and notes stay in browser local storage, with no account or backend
 - [**nobro.app**](https://nobro.app/) - Minimalist offline-first workout program tracker. State and editable program live in localStorage, no backend. PWA, 11 locales
 
 ## Frameworks & Platforms

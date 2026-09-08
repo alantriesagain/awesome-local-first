@@ -73,6 +73,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Tree Ring Memory**](https://github.com/TerminallyLazy/Tree-Ring-Memory) - Local-first, SQLite/FTS-backed memory lifecycle CLI/TUI for AI agents with explicit recall, redaction, deletion, audit, consolidation, and JSON export.
 - [**kgai**](https://github.com/kgaidev/kgai) - Local-first, append-only decision memory for AI dev teams; Claude Code plugin plus kg CLI, syncs through your own S3 bucket (MIT)
 - [**CompozyOS**](https://github.com/compozy/compozy) - Local-first agent operating system with loops, schedules, shared memory and approvals (MIT)
+- [**YYLO**](https://github.com/yylo-dev/yylo) - Local-first, git-native orchestrator for AI coding agents: Kanban, tasks and receipt-backed evidence stored in the repo, typed merges across agent worktrees, no cloud (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 
 ### Communication

@@ -1,4 +1,4 @@
-# Awesome Local-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Local-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 > A curated collection of local-first projects, tools, and resources for building offline-capable, privacy-focused, and collaborative applications on the web.
 
@@ -231,7 +231,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ## Contributing
 
-Contributions welcome! Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Star the repo, then read the [contribution guidelines](CONTRIBUTING.md) before opening a pull request. All participants are expected to follow the [Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## License
 

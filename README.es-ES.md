@@ -222,7 +222,7 @@ El software de enfoque local-first prioriza el almacenamiento y procesamiento de
 
 ## Contribuciones
 
-¡Las contribuciones son bienvenidas! Por favor, lee las [guías de contribución](CONTRIBUTING.md) primero.
+¡Las contribuciones son bienvenidas! Dale una estrella al repositorio y lee las [guías de contribución](CONTRIBUTING.md) antes de abrir un pull request. Se espera que todas las personas participantes sigan el [Código de Conducta](CODE_OF_CONDUCT.md).
 
 ## Licencia
 

@@ -86,6 +86,10 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**CuidaLocal**](https://github.com/marcosmmjr2023/kit-organizacao-cuidados) - Offline PWA for family care coordination. Appointments, medications, contacts, and notes stay in browser local storage, with no account or backend
 - [**nobro.app**](https://nobro.app/) - Minimalist offline-first workout program tracker. State and editable program live in localStorage, no backend. PWA, 11 locales
 
+### Games & Tabletop
+
+- [**Gnasher's Grimoire**](https://longislanddungeonmaster.com/grimoire) - Dungeon Master's screen for tabletop D&D in a single HTML file that runs offline with no server and no account; bundles the SRD 5.2.1, a combat tracker and a battle map with fog, and imports PDFs, Markdown and Obsidian vaults (free, proprietary)
+
 ## Frameworks & Platforms
 
 ### Full-Stack Frameworks

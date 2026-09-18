@@ -42,6 +42,7 @@ Local-first software prioritizes local data storage and processing while enablin
 ### Productivity & Knowledge Management
 
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
+- [Tiny Day](https://github.com/royalpinto007/Tiny-Day) - Offline-first daily planner for Android (React Native/Expo): no accounts, no cloud, no analytics. Plain-language planning, gentle timeline, focus timer, one-tap replanning. MIT.
 
 - [**Actual**](https://github.com/actualbudget/actual) - Privacy-focused personal finance management
 - [**AFFiNE**](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base combining planning, sorting, and creating. Open-source Notion alternative

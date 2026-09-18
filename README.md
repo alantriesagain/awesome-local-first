@@ -63,6 +63,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ### Design & Creative
 
+- [**BoardEject**](https://github.com/royalpinto007/boardeject) - Local-first open-source Apple Freeform export and archival tool. Board data and assets remain on the user's Mac, with no account or cloud processing required.
 - [**Penpot**](https://github.com/penpot/penpot) - Open-source design and prototyping platform (local-first capable)
 - [**tldraw**](https://github.com/tldraw/tldraw) - Infinite canvas SDK with local-first multiplayer
 

@@ -52,10 +52,10 @@ El software de enfoque local-first prioriza el almacenamiento y procesamiento de
 - [**Logseq**](https://github.com/logseq/logseq) - Base de conocimiento de código abierto con enfoque en la privacidad y enlaces bidireccionales
 - [**Obsidian**](https://obsidian.md/) - Potente base de conocimiento sobre archivos markdown locales
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Aplicación para tomar notas con enfoque en la privacidad y cifrado de extremo a extremo
+- [**Screenpipe**](https://github.com/screenpipe/screenpipe) - Historial local de pantalla y audio consultable mediante una línea de tiempo, API local y MCP; código disponible bajo la Screenpipe Commercial License. El historial se guarda en el dispositivo por defecto; la IA en la nube, la transcripción, la sincronización y las integraciones configuradas pueden transmitir contexto fuera del dispositivo.
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Base de conocimiento personal con respaldo en Git
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Wiki autocontenida en JavaScript
 - [**Volon**](https://github.com/danielgolden/volon) - Aplicación de notas en texto plano con enfoque en markdown
-- [**Screenpipe**](https://github.com/mediar-ai/screenpipe) - Grabación de pantalla y micrófono con IA local 24/7 para construir aplicaciones de IA con contexto. Alternativa 100% local y centrada en la privacidad a Rewind.ai
 
 ### Diseño y Creatividad
 

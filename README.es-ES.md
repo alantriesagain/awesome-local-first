@@ -47,6 +47,7 @@ El software de enfoque local-first prioriza el almacenamiento y procesamiento de
 - [**AFFiNE**](https://github.com/toeverything/AFFiNE) - Base de conocimiento de próxima generación que combina planificación, organización y creación. Alternativa de código abierto a Notion
 - [**Anytype**](https://github.com/anyproto/anytype-ts) - Herramienta de gestión del conocimiento y colaboración P2P de enfoque local-first
 - [**Bangle.io**](https://github.com/bangle-io/bangle-io) - Aplicación nativa web para tomar notas en markdown con almacenamiento local
+- [**Cozy**](https://cozyjournal.app/) - Diario para Mac, Windows y iPhone que guarda cada entrada como un archivo Markdown con frontmatter YAML en tu propio disco. Sin cuenta y sin IA; funciona sin conexión, y la sincronización es cualquier carpeta que ya uses, como iCloud Drive o Dropbox (comercial, pago único).
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - PWA de práctica de shadowing offline con enfoque en la privacidad. Todas las grabaciones se almacenan localmente, con retroalimentación de pronunciación por IA.
 - [**Kuku**](https://kuku.mom) - Espacio de trabajo Markdown local-first de código abierto con ediciones asistidas por IA, enlaces inversos, navegación por grafo y sincronización encriptada opcional
 - [**Logseq**](https://github.com/logseq/logseq) - Base de conocimiento de código abierto con enfoque en la privacidad y enlaces bidireccionales

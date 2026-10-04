@@ -49,6 +49,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Anytype**](https://github.com/anyproto/anytype-ts) - Local-first, P2P knowledge management and collaboration tool
 - [**Bangle.io**](https://github.com/bangle-io/bangle-io) - Web-native markdown note-taking app with local storage
 - [**Clippy Vision**](https://github.com/protocorn/clippy-vision) - Local screen-memory assistant that watches your windows, clipboard, and screenshots to answer questions about your own activity history. 100% local, no cloud.
+- [**Cozy**](https://cozyjournal.app/) - Journal for Mac, Windows and iPhone that keeps every entry as a Markdown file with YAML frontmatter on your own disk. No account and no AI; it works offline, and syncing is any folder you already use, such as iCloud Drive or Dropbox (commercial, pay once).
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. All recordings stored locally, AI pronunciation feedback.
 - [**FileOnTap**](https://fileontap.com/) - Browser-local image and PDF conversion; supported files stay on-device and no account is required.
 - [**Focus Flow**](https://github.com/w3ziqv/focus-flow) - Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. All data stays in localStorage/IndexedDB with zero network requests. PWA with WCAG AAA themes.

@@ -99,6 +99,7 @@ Local-first software prioritizes local data storage and processing while enablin
 ### Games & Tabletop
 
 - [**Gnasher's Grimoire**](https://longislanddungeonmaster.com/grimoire) - Dungeon Master's screen for tabletop D&D in a single HTML file that runs offline with no server and no account; bundles the SRD 5.2.1, a combat tracker and a battle map with fog, and imports PDFs, Markdown and Obsidian vaults (free, proprietary)
+- [**Parlour**](https://github.com/braedonsaunders/parlour) - Card table with nineteen games that runs in the browser or as a Tauri desktop app with no backend and no account; solo play against bots works fully offline, friend rooms connect peer-to-peer over end-to-end encrypted WebRTC, and profile, stats and rivalries stay on the device (MIT)
 
 ## Frameworks & Platforms
 

@@ -60,6 +60,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Orkas**](https://github.com/Orkas-AI/Orkas) - Open-source desktop AI workforce where a Commander coordinates specialist agents through one chat while conversations, files, agent configuration, and model keys stay on-device
 - [**ResumeForge**](https://github.com/magicapple123/ResumeForge) - Local-first AI job-hunting suite: resume generation, job/application tracking, and interview prep. SQLite storage, no cloud, no account (MIT)
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Privacy-focused, end-to-end encrypted note-taking app
+- [**ScopeLens**](https://github.com/livastic-vm1-primary/scope-lens) - Free MIT-licensed English/Korean browser tool for reviewing freelancer project briefs against eight scope topics and exporting on-device Markdown checklists. No account or hosted AI inference required.
 - [**Screenpipe**](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through a timeline, local API, and MCP; source-available under the Screenpipe Commercial License. Raw history stays on-device by default; configured cloud AI, transcription, sync, and integrations can transmit context off-device.
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki

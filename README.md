@@ -57,6 +57,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Koru**](https://github.com/koruworks/mono) - Native desktop workspace for notes, docs and files that keeps data on your device and needs no account. Windows and macOS, built in Rust. Open source (MPL-2.0).
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
+- [**Nostos**](https://github.com/Christian-Gennari/Nostos) - Local-first reading environment and digital study bridging EPUB/PDF reading, marginalia, audiobooks, and connected notes. SQLite storage, no accounts, no telemetry (GPL-3.0)
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
 - [**PDF Metadata Remover**](https://pdfmetadataremover.com/) - Browser-local tools for inspecting and removing common PDF metadata and cleaning supported image EXIF without uploading selected files. (proprietary)
 - [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.

@@ -55,6 +55,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Focus Flow**](https://github.com/w3ziqv/focus-flow) - Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. All data stays in localStorage/IndexedDB with zero network requests. PWA with WCAG AAA themes.
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
+- [**Nostos**](https://github.com/Christian-Gennari/Nostos) - Local-first reading environment and digital study bridging EPUB/PDF reading, marginalia, audiobooks, and connected notes. SQLite storage, no accounts, no telemetry (GPL-3.0)
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
 - [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.
 - [**Orkas**](https://github.com/Orkas-AI/Orkas) - Open-source desktop AI workforce where a Commander coordinates specialist agents through one chat while conversations, files, agent configuration, and model keys stay on-device

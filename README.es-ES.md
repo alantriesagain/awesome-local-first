@@ -51,6 +51,7 @@ El software de enfoque local-first prioriza el almacenamiento y procesamiento de
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - PWA de práctica de shadowing offline con enfoque en la privacidad. Todas las grabaciones se almacenan localmente, con retroalimentación de pronunciación por IA.
 - [**Kuku**](https://kuku.mom) - Espacio de trabajo Markdown local-first de código abierto con ediciones asistidas por IA, enlaces inversos, navegación por grafo y sincronización encriptada opcional
 - [**Logseq**](https://github.com/logseq/logseq) - Base de conocimiento de código abierto con enfoque en la privacidad y enlaces bidireccionales
+- [**Nostos**](https://github.com/Christian-Gennari/Nostos) - Entorno de lectura y estudio digital local-first que une lectura de EPUB/PDF, notas marginales, audiolibros y notas conectadas. Almacenamiento en SQLite, sin cuentas ni telemetría (GPL-3.0)
 - [**Obsidian**](https://obsidian.md/) - Potente base de conocimiento sobre archivos markdown locales
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Aplicación para tomar notas con enfoque en la privacidad y cifrado de extremo a extremo
 - [**Screenpipe**](https://github.com/screenpipe/screenpipe) - Historial local de pantalla y audio consultable mediante una línea de tiempo, API local y MCP; código disponible bajo la Screenpipe Commercial License. El historial se guarda en el dispositivo por defecto; la IA en la nube, la transcripción, la sincronización y las integraciones configuradas pueden transmitir contexto fuera del dispositivo.

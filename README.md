@@ -53,6 +53,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. All recordings stored locally, AI pronunciation feedback.
 - [**FileOnTap**](https://fileontap.com/) - Browser-local image and PDF conversion; supported files stay on-device and no account is required.
 - [**Focus Flow**](https://github.com/w3ziqv/focus-flow) - Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. All data stays in localStorage/IndexedDB with zero network requests. PWA with WCAG AAA themes.
+- [**Image Color Remover**](https://imagecolorremover.com/) - Browser-local image color and white-background removal with transparent PNG export; selected files remain on-device and no account is required. (proprietary)
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files

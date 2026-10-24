@@ -43,6 +43,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [Tiny Day](https://github.com/royalpinto007/Tiny-Day) - Offline-first daily planner for Android (React Native/Expo): no accounts, no cloud, no analytics. Plain-language planning, gentle timeline, focus timer, one-tap replanning. MIT.
+- [Helicon](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-localfirst) - PDF and EPUB reader for iPad and iPhone with notes pinned beside the line. Books and notes stay on the device and in your own iCloud: no account, no server. Proprietary, free.
 
 - [**Actual**](https://github.com/actualbudget/actual) - Privacy-focused personal finance management
 - [**AFFiNE**](https://github.com/toeverything/AFFiNE) - Next-gen knowledge base combining planning, sorting, and creating. Open-source Notion alternative
@@ -54,9 +55,11 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**FileOnTap**](https://fileontap.com/) - Browser-local image and PDF conversion; supported files stay on-device and no account is required.
 - [**Focus Flow**](https://github.com/w3ziqv/focus-flow) - Local-first Pomodoro timer with procedural ambient soundscapes, session goals, and offline data export. All data stays in localStorage/IndexedDB with zero network requests. PWA with WCAG AAA themes.
 - [**Image Color Remover**](https://imagecolorremover.com/) - Browser-local image color and white-background removal with transparent PNG export; selected files remain on-device and no account is required. (proprietary)
+- [**Koru**](https://github.com/koruworks/mono) - Native desktop workspace for notes, docs and files that keeps data on your device and needs no account. Windows and macOS, built in Rust. Open source (MPL-2.0).
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
+- [**PDF Metadata Remover**](https://pdfmetadataremover.com/) - Browser-local tools for inspecting and removing common PDF metadata and cleaning supported image EXIF without uploading selected files. (proprietary)
 - [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.
 - [**Orkas**](https://github.com/Orkas-AI/Orkas) - Open-source desktop AI workforce where a Commander coordinates specialist agents through one chat while conversations, files, agent configuration, and model keys stay on-device
 - [**ResumeForge**](https://github.com/magicapple123/ResumeForge) - Local-first AI job-hunting suite: resume generation, job/application tracking, and interview prep. SQLite storage, no cloud, no account (MIT)

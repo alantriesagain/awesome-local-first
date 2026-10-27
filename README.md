@@ -41,6 +41,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ### Productivity & Knowledge Management
 
+- [**GIS Toolbox**](https://gis.taoliapp.com/) - Free browser-local coordinate and GIS format converter (WGS84/UTM/EPSG/GCJ-02/BD-09; Shapefile/GeoJSON/KML/CSV). Files stay on-device; no account required for core tools. (proprietary)
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [Tiny Day](https://github.com/royalpinto007/Tiny-Day) - Offline-first daily planner for Android (React Native/Expo): no accounts, no cloud, no analytics. Plain-language planning, gentle timeline, focus timer, one-tap replanning. MIT.
 - [Helicon](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-localfirst) - PDF and EPUB reader for iPad and iPhone with notes pinned beside the line. Books and notes stay on the device and in your own iCloud: no account, no server. Proprietary, free.

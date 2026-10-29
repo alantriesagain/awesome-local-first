@@ -63,6 +63,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
 - [**PDF Metadata Remover**](https://pdfmetadataremover.com/) - Browser-local tools for inspecting and removing common PDF metadata and cleaning supported image EXIF without uploading selected files. (proprietary)
 - [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.
+- [**Ripple**](https://ripplefocus.github.io/en/) - Local-only focus and parental control for Android and iOS 16+. Blocks short-video feeds while keeping chat. Parent unlock codes and anti-uninstall. No account, no cloud. Free APK/IPA.
 - [**Orkas**](https://github.com/Orkas-AI/Orkas) - Open-source desktop AI workforce where a Commander coordinates specialist agents through one chat while conversations, files, agent configuration, and model keys stay on-device
 - [**ResumeForge**](https://github.com/magicapple123/ResumeForge) - Local-first AI job-hunting suite: resume generation, job/application tracking, and interview prep. SQLite storage, no cloud, no account (MIT)
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Privacy-focused, end-to-end encrypted note-taking app

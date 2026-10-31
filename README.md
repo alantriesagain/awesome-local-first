@@ -61,6 +61,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Nostos**](https://github.com/Christian-Gennari/Nostos) - Local-first reading environment and digital study bridging EPUB/PDF reading, marginalia, audiobooks, and connected notes. SQLite storage, no accounts, no telemetry (GPL-3.0)
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
+- [**PDF Guard**](https://getpdfguard.com) - Browser-based PDF editor: edit text, sign, merge and redact PDFs with all processing and storage on the device. Works offline, no account. Proprietary, freemium.
 - [**PDF Metadata Remover**](https://pdfmetadataremover.com/) - Browser-local tools for inspecting and removing common PDF metadata and cleaning supported image EXIF without uploading selected files. (proprietary)
 - [**Remio**](https://remio.ai/) - Local-first AI memory and knowledge base desktop app that parses files, webpages, recordings, emails, messages, images, and notes into local indexes and vectors for faster personal context retrieval.
 - [**Ripple**](https://ripplefocus.github.io/en/) - Local-only focus and parental control for Android and iOS 16+. Blocks short-video feeds while keeping chat. Parent unlock codes and anti-uninstall. No account, no cloud. Free APK/IPA.

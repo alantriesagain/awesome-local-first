@@ -81,6 +81,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**BoardEject**](https://github.com/royalpinto007/boardeject) - Local-first open-source Apple Freeform export and archival tool. Board data and assets remain on the user's Mac, with no account or cloud processing required.
 - [**Galta**](https://github.com/aha-labs-hq/galta) - AI canvas in a Chrome or Dia side panel for collecting web references with their sources; canvases, versions and conversations stay on the user's computer and work offline, and an agent (ChatGPT through Codex, or Claude Code) is optional. Open source (AGPL-3.0).
 - [**Penpot**](https://github.com/penpot/penpot) - Open-source design and prototyping platform (local-first capable)
+- [**Quick Image Kit**](https://quickimagekit.com/) - Browser-local image compressor, resizer, converter, cropper and favicon generator, with exact-KB presets and exam photo/signature workflows. Files never leave the device and no account is required. (proprietary)
 - [**tldraw**](https://github.com/tldraw/tldraw) - Infinite canvas SDK with local-first multiplayer
 
 ### Development Tools

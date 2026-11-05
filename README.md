@@ -78,6 +78,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 ### Design & Creative
 
+- [**Pic2Vector**](https://pic2vector.com/) - Free browser-local PNG/JPG/WebP→layered SVG converter. Tracing runs on-device with WebAssembly (vtracer); images never uploaded; no account. (proprietary)
 - [**BoardEject**](https://github.com/royalpinto007/boardeject) - Local-first open-source Apple Freeform export and archival tool. Board data and assets remain on the user's Mac, with no account or cloud processing required.
 - [**Galta**](https://github.com/aha-labs-hq/galta) - AI canvas in a Chrome or Dia side panel for collecting web references with their sources; canvases, versions and conversations stay on the user's computer and work offline, and an agent (ChatGPT through Codex, or Claude Code) is optional. Open source (AGPL-3.0).
 - [**Penpot**](https://github.com/penpot/penpot) - Open-source design and prototyping platform (local-first capable)

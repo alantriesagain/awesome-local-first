@@ -95,6 +95,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**CompozyOS**](https://github.com/compozy/compozy) - Local-first agent operating system with loops, schedules, shared memory and approvals (MIT)
 - [**YYLO**](https://github.com/yylo-dev/yylo) - Local-first, git-native orchestrator for AI coding agents: Kanban, tasks and receipt-backed evidence stored in the repo, typed merges across agent worktrees, no cloud (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
+- [**Seqora**](https://seqora.dev/) - Desktop client for PostgreSQL, MySQL, MariaDB and SQLite. Connections and query history stay in an encrypted store on your disk, with no account and no cloud sync (proprietary, free plan with paid Pro)
 
 ### Communication
 

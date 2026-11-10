@@ -177,6 +177,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Liveblocks**](https://github.com/liveblocks/liveblocks) - Real-time collaboration infrastructure
 - [**Evolu**](https://github.com/evoluhq/evolu) - Local-first platform with E2E encryption
 - [**ZamSync**](https://github.com/Etoile-Bleu/ZamSync) - Offline-first WAL sync engine in Rust for unreliable networks. HLC ordering, Version Vector deduplication, mTLS, ChaCha20-Poly1305 encryption at rest, static binary for ARM/IoT.
+- [**Offline-first Cache Sync**](https://github.com/cherrypick-agency/synchronize_cache) - Offline-first Flutter/Drift sync engine using an outbox, push/pull, and configurable conflict resolution.
 
 ### P2P Protocols
 

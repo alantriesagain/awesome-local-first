@@ -61,6 +61,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Kuku**](https://kuku.mom) - Open-source local-first Markdown workspace with AI-assisted edits, backlinks, graph navigation, and optional encrypted sync
 - [**Logseq**](https://github.com/logseq/logseq) - Privacy-first, open-source knowledge base with bidirectional linking
 - [**Nostos**](https://github.com/Christian-Gennari/Nostos) - Local-first reading environment and digital study bridging EPUB/PDF reading, marginalia, audiobooks, and connected notes. SQLite storage, no accounts, no telemetry (GPL-3.0)
+- [**Nyxiontech PDF Tools**](https://tools.nyxiontech.com) - Browser PDF and image tools (merge, split, compress, sign, fill forms, redact, convert, OCR in English and Polish) with no backend, so files are never uploaded and no account is needed. A Windows build runs the same tools with no network at all. Open source (AGPL-3.0).
 - [**Obsidian**](https://obsidian.md/) - Powerful knowledge base on top of local markdown files
 - [**PDF Guard**](https://getpdfguard.com) - Browser-based PDF editor: edit text, sign, merge and redact PDFs with all processing and storage on the device. Works offline, no account. Proprietary, freemium.
 - [**Offline.Ltd**](https://offline.ltd/) - Personalized single-file HTML tools forged to your life. One purchase, one HTML file you own and run fully offline forever; no account, no cloud, no phone-home. (commercial, pay once)

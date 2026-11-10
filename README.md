@@ -97,6 +97,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**YYLO**](https://github.com/yylo-dev/yylo) - Local-first, git-native orchestrator for AI coding agents: Kanban, tasks and receipt-backed evidence stored in the repo, typed merges across agent worktrees, no cloud (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 - [**Seqora**](https://seqora.dev/) - Desktop client for PostgreSQL, MySQL, MariaDB and SQLite. Connections and query history stay in an encrypted store on your disk, with no account and no cloud sync (proprietary, free plan with paid Pro)
+- [**Wayfarer**](https://wayfarer.ashwinsathian.com) - API client that opens in a browser tab. Collections, history and an encrypted secrets vault stay in IndexedDB, it loads offline after one visit, and there is no account or backend (MIT)
 
 ### Communication
 

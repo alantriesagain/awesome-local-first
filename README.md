@@ -73,6 +73,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Notesnook**](https://github.com/streetwriters/notesnook) - Privacy-focused, end-to-end encrypted note-taking app
 - [**ScopeLens**](https://github.com/livastic-vm1-primary/scope-lens) - Free MIT-licensed English/Korean browser tool for reviewing freelancer project briefs against eight scope topics and exporting on-device Markdown checklists. No account or hosted AI inference required.
 - [**Screenpipe**](https://github.com/screenpipe/screenpipe) - Local-first screen and audio history searchable through a timeline, local API, and MCP; source-available under the Screenpipe Commercial License. Raw history stays on-device by default; configured cloud AI, transcription, sync, and integrations can transmit context off-device.
+- [**Shared Tasks**](https://github.com/openlfcp/obsidian) - Obsidian plugin that shares one section of a note with another person's vault; ticks and edits sync both ways, including after offline edits. The rest of the vault stays local, and shared changes are end-to-end encrypted. Beta, desktop first. Apache-2.0.
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki
 - [**Volon**](https://github.com/danielgolden/volon) - Plain text, markdown-focused notes app
@@ -179,6 +180,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Evolu**](https://github.com/evoluhq/evolu) - Local-first platform with E2E encryption
 - [**ZamSync**](https://github.com/Etoile-Bleu/ZamSync) - Offline-first WAL sync engine in Rust for unreliable networks. HLC ordering, Version Vector deduplication, mTLS, ChaCha20-Poly1305 encryption at rest, static binary for ARM/IoT.
 - [**Offline-first Cache Sync**](https://github.com/cherrypick-agency/synchronize_cache) - Offline-first Flutter/Drift sync engine using an outbox, push/pull, and configurable conflict resolution.
+- [**OpenLFCP**](https://openlfcp.org) - Open protocol for local-first sharing of a piece of a document between apps: changes are end-to-end encrypted and signed on the device, and the relay server stores only ciphertext. TypeScript and Rust SDKs over Automerge, self-hostable server. Apache-2.0.
 
 ### P2P Protocols
 

@@ -78,6 +78,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**TidGi**](https://github.com/tiddly-gittly/TidGi-Desktop) - Personal knowledge base with Git backup
 - [**TiddlyWiki**](https://github.com/Jermolene/TiddlyWiki5) - Self-contained JavaScript wiki
 - [**Volon**](https://github.com/danielgolden/volon) - Plain text, markdown-focused notes app
+- [**Yellow Tomato**](https://yellowtomato.app) - Pomodoro timer and distraction blocker for Chrome, iPhone and iPad. Sessions, tasks, streaks and stats are stored on the device, with no account and no server. (proprietary)
 - [**OATS**](https://github.com/ariso-ai/oats) - Open-source macOS meeting-notes app with live transcription, speaker labels, AI summaries, and optional fully offline on-device mode
 
 ### Design & Creative

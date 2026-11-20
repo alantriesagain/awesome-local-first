@@ -89,6 +89,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Quick Image Kit**](https://quickimagekit.com/) - Browser-local image compressor, resizer, converter, cropper and favicon generator, with exact-KB presets and exam photo/signature workflows. Files never leave the device and no account is required. (proprietary)
 - [**Stayput**](https://stayput.dev/) - Image, PDF, audio and video tools (convert, compress, trim, remove backgrounds) that run in the browser, so files stay on the device and are not uploaded. Works offline after one visit (AI-model tools need one online run first), with no account and a self-hosted, cookie-free usage counter. Open source (MIT).
 - [**tldraw**](https://github.com/tldraw/tldraw) - Infinite canvas SDK with local-first multiplayer
+- [**ToHD**](https://tohd.video/) - Browser-local AI video upscaler that turns 360p and 480p clips into 720p or 1080p with Real-ESRGAN on the user's own GPU through WebGPU; the video stays on the device and no account is needed. The in-browser engine is open source (MIT), optional cloud processing is paid. (proprietary, free in the browser)
 
 ### Development Tools
 

@@ -44,7 +44,6 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**ImgFlow**](https://imgflow.taoliapp.com/en/) - Free browser-local image compressor and converter (PNG/JPG/HEIC/WebP/AVIF, target-size compress). Files never leave the device; no account required. (proprietary)
 - [Persona](https://github.com/jayamitkatariya/personacli) - Local-first personal workspace: notes, tasks and AI chat. Plain markdown files, no accounts, no cloud. MIT.
 - [**Skykeep**](https://github.com/YashwanthKamireddi/Skykeep) - Desktop apps for iCloud Notes, Reminders, Calendar, Contacts, Drive and Photos on Linux and Windows. The whole library lives on the device and edits made offline sync later. GPL-3.0.
-- [**sqlite-graph-memory**](https://github.com/tonydzi/sqlite-graph-memory) - Agent memory over your own markdown or Obsidian notes, kept in one local SQLite file with wikilinks as the graph; serves Claude Code, Cursor and Codex over MCP. MIT.
 - [Tiny Day](https://github.com/royalpinto007/Tiny-Day) - Offline-first daily planner for Android (React Native/Expo): no accounts, no cloud, no analytics. Plain-language planning, gentle timeline, focus timer, one-tap replanning. MIT.
 - [Helicon](https://apps.apple.com/app/id6811677202?pt=125973633&ct=gh-localfirst) - PDF and EPUB reader for iPad and iPhone with notes pinned beside the line. Books and notes stay on the device and in your own iCloud: no account, no server. Proprietary, free.
 
@@ -102,6 +101,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**YYLO**](https://github.com/yylo-dev/yylo) - Local-first, git-native orchestrator for AI coding agents: Kanban, tasks and receipt-backed evidence stored in the repo, typed merges across agent worktrees, no cloud (MIT)
 - [**Radicle**](https://github.com/radicle-dev/radicle-interface) - P2P code collaboration built on Git
 - [**Seqora**](https://seqora.dev/) - Desktop client for PostgreSQL, MySQL, MariaDB and SQLite. Connections and query history stay in an encrypted store on your disk, with no account and no cloud sync (proprietary, free plan with paid Pro)
+- [**sqlite-graph-memory**](https://github.com/tonydzi/sqlite-graph-memory) - Agent memory over your own markdown or Obsidian notes, kept in one local SQLite file with wikilinks as the graph; serves Claude Code, Cursor and Codex over MCP. MIT.
 - [**Wayfarer**](https://wayfarer.ashwinsathian.com) - API client that opens in a browser tab. Collections, history and an encrypted secrets vault stay in IndexedDB, it loads offline after one visit, and there is no account or backend (MIT)
 
 ### Communication

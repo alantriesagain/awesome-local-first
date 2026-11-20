@@ -84,6 +84,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 - [**Pic2Vector**](https://pic2vector.com/) - Free browser-local PNG/JPG/WebP→layered SVG converter. Tracing runs on-device with WebAssembly (vtracer); images never uploaded; no account. (proprietary)
 - [**BoardEject**](https://github.com/royalpinto007/boardeject) - Local-first open-source Apple Freeform export and archival tool. Board data and assets remain on the user's Mac, with no account or cloud processing required.
+- [**DESIGN:OS Studio**](https://github.com/jangtrinh/design-os-studio) - Native desktop design editor that opens and saves .fig files on your device with no account or cloud, and a local MCP server so a coding agent can edit the open file. No telemetry. Free, source-available (PolyForm Shield 1.0.0).
 - [**Galta**](https://github.com/aha-labs-hq/galta) - AI canvas in a Chrome or Dia side panel for collecting web references with their sources; canvases, versions and conversations stay on the user's computer and work offline, and an agent (ChatGPT through Codex, or Claude Code) is optional. Open source (AGPL-3.0).
 - [**Penpot**](https://github.com/penpot/penpot) - Open-source design and prototyping platform (local-first capable)
 - [**Quick Image Kit**](https://quickimagekit.com/) - Browser-local image compressor, resizer, converter, cropper and favicon generator, with exact-KB presets and exam photo/signature workflows. Files never leave the device and no account is required. (proprietary)

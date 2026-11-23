@@ -119,6 +119,7 @@ Local-first software prioritizes local data storage and processing while enablin
 
 - [**CuidaLocal**](https://github.com/marcosmmjr2023/kit-organizacao-cuidados) - Offline PWA for family care coordination. Appointments, medications, contacts, and notes stay in browser local storage, with no account or backend
 - [**nobro.app**](https://nobro.app/) - Minimalist offline-first workout program tracker. State and editable program live in localStorage, no backend. PWA, 11 locales
+- [**OpenMat Live**](https://openmatlive.com/) - Offline-first US high school folkstyle wrestling tournament platform (live brackets, matside scorekeeping, and HDMI TV scoreboards) storing signed tournament snapshots in browser DuckDB-Wasm OPFS and syncing over LAN/WebRTC when gym Wi-Fi drops. No spectator accounts required.
 
 ### Games & Tabletop
 

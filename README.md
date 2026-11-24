@@ -140,6 +140,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**VLCN (cr-sqlite)**](https://github.com/vlcn-io/cr-sqlite) - Convergent, replicated SQLite for distributed apps
 - [**Zero**](https://github.com/rocicorp/zero) - Local-first, reactive database sync for TypeScript
 - [**Ditto**](https://github.com/getditto/ditto) - P2P database for edge and mobile (commercial)
+- [**Vibes DIY**](https://vibes.diy/) - Describe an app in a sentence and get a web app whose database is a local replica on each device, synced live between users ([how it works](https://good.vibes.diy/blog/where-your-data-lives)) (proprietary)
 
 ### Starter Kits & Boilerplates
 

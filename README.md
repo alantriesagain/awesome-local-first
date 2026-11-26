@@ -53,6 +53,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Bangle.io**](https://github.com/bangle-io/bangle-io) - Web-native markdown note-taking app with local storage
 - [**Clippy Vision**](https://github.com/protocorn/clippy-vision) - Local screen-memory assistant that watches your windows, clipboard, and screenshots to answer questions about your own activity history. 100% local, no cloud.
 - [**Cozy**](https://cozyjournal.app/) - Journal for Mac, Windows and iPhone that keeps every entry as a Markdown file with YAML frontmatter on your own disk. No account and no AI; it works offline, and syncing is any folder you already use, such as iCloud Drive or Dropbox (commercial, pay once).
+- [**dohc**](https://github.com/dohchq/dohc) - Desktop app for managing and sharing personal apps. Your apps, data and documents are stored on your computer, and you can share them through a server. Free and no account needed. Early alpha (AGPL-3.0).
 - [**EchoTalk**](https://alisolphp.github.io/EchoTalk/) - Privacy-first offline shadowing practice PWA. All recordings stored locally, AI pronunciation feedback.
 - [**Exhibit**](https://chatexhibit.me/) - Mac app that turns iMessage, SMS, WhatsApp, Signal and Telegram conversations into one dated, page-numbered PDF for court. It reads the messages on the Mac with no account and no upload, and works offline after license activation (commercial, pay once).
 - [**FileOnTap**](https://fileontap.com/) - Browser-local image and PDF conversion; supported files stay on-device and no account is required.

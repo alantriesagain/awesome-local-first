@@ -145,6 +145,7 @@ Local-first software prioritizes local data storage and processing while enablin
 - [**Verdant**](https://github.com/a-type/verdant) - Framework for local-first React applications
 - [**VLCN (cr-sqlite)**](https://github.com/vlcn-io/cr-sqlite) - Convergent, replicated SQLite for distributed apps
 - [**Zero**](https://github.com/rocicorp/zero) - Local-first, reactive database sync for TypeScript
+- [**Pulsify**](https://pulsify.cloud) - Typed CRDT documents for TypeScript, with local persistence (IndexedDB, Electron, Tauri) and sync through a self-hosted server (PostgreSQL, SQLite, RocksDB) or the managed Pulsify Cloud. Apache-2.0 ([repo](https://github.com/Gin-Quin/pulsify))
 - [**Ditto**](https://github.com/getditto/ditto) - P2P database for edge and mobile (commercial)
 
 ### Starter Kits & Boilerplates
